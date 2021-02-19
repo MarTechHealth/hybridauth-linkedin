@@ -1,6 +1,6 @@
 <?php
-	include 'includes/hybridauth/autoload.php';
-	include 'config.php';
+	include 'https://raw.githubusercontent.com/MarTechHealth/hybridauth-linkedin/master/includes/hybridauth/autoload.php';
+	include 'https://raw.githubusercontent.com/MarTechHealth/hybridauth-linkedin/';
 
 	use Hybridauth\Hybridauth;
 
